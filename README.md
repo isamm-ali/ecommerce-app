@@ -5,15 +5,10 @@ A fully functional E-Commerce app built with Flutter and Dart, featuring product
 Features
 
 Product Listing: Browse products by category (Men, Women, Shorts, Winter) with a search bar.
-
 Product Details: View detailed product information including price, images, and available sizes.
-
 Shopping Cart: Add or remove products dynamically; cart updates in real-time.
-
 State Management: Uses Provider for efficient state handling.
-
 Navigation: Smooth navigation between Home, Product Details, and Cart pages.
-
 Reusable Components: Modular widgets for product cards, chips, buttons, and alerts.
 
 
@@ -67,4 +62,5 @@ Include search filters and sorting options.
 Improve UI/UX with animations and themes.
 
 Contact
+
 If you want to connect or discuss Flutter projects, feel free to reach out!
